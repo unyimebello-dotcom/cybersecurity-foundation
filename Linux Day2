@@ -1,0 +1,25 @@
+my Cyber Security Journey, 
+ Day 2 - Linux Command Line Practice
+
+ ✅ Commands I Learned Today:
+- `pwd` - Print working directory
+- `ls` - List contents
+- `mkdir` - Make directory
+- `cd` - Change directory
+- `touch` - Create empty file
+- `rm` - Remove files
+- `rmdir` - Remove empty directories
+
+ What I Did:
+1. Created a directory called `day2_practise`
+2. Navigated into it
+3. Created a file `my_first_file.txt`
+4. Listed contents to verify
+5. Navigated back home
+6. Deleted the file from inside the directory
+7. Removed the empty directory
+
+💡 Challenges I Faced:
+- Forgot to use `-r` with `rm` for directories
+- Had to go inside directory to delete file first
+- Learned the difference between deleting files vs directories
